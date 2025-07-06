@@ -1,7 +1,5 @@
 # 🌐 Frontend - Himmel Web Application
 
-# 🌐 Frontend Web App
-
 [![Portfolio Project](https://img.shields.io/badge/portfolio-project-blueviolet?style=flat-square)](#)
 [![License: Custom](https://img.shields.io/badge/license-Custom-important?style=flat-square)](./LICENSE)
 [![Built with Vue 3](https://img.shields.io/badge/built%20with-Vue%203-42b883?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
