@@ -4,7 +4,7 @@ This is the **full frontend source code** of a modern web application built usin
 
 It includes:
 - A highly customized **Admin Panel** based on [TailAdmin v1.3](https://tailadmin.com)
-- A **Customer Frontend** interface built 100% from scratch by Nursila Yusmitha
+- A **Customer Frontend** interface built 100% from scratch by Nursila Yusmitha Angghani
 
 > ⚠️ This is a frontend-only repository. Backend is available in a separate private repository.
 
