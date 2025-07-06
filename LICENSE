@@ -2,19 +2,18 @@ Custom License – All Rights Reserved
 
 Copyright (c) 2025 Nursila Yusmitha Angghani
 
-This project was developed by **Nursila Yusmitha Angghani**, with the frontend 
-based on a heavily customized version of **TailAdmin v1.3** (MIT License) 
-and is provided for personal, educational, and portfolio purposes.
+This project was developed by Nursila Yusmitha Angghani.  
+The frontend is based on a heavily customized version of TailAdmin v1.3 (MIT License)  
+and is provided for personal, educational, and portfolio purposes only.
 
-You are **not permitted** to:
-
+You are NOT permitted to:
 - Sell, license, or commercially distribute this software or any part of it.
 - Claim authorship or misrepresent the origin of the code.
-- Reuse the code in other projects, products, or services **without prior written permission**.
+- Reuse the code in other projects, products, or services without prior written permission.
 - Share this project publicly without appropriate credit and authorization.
 
-This codebase may be used **only for non-commercial review, educational study, 
-and demonstration purposes** with proper attribution.
+This codebase may be used only for non-commercial review, educational study,  
+and demonstration purposes with proper attribution.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -26,9 +25,10 @@ SOFTWARE.
 
 ---
 
-## Included Open Source Software
+Included Open Source Software:
 
-This project incorporates a modified version of **TailAdmin v1.3**, which is distributed under the MIT License:
+This project incorporates a modified version of TailAdmin v1.3,  
+which is distributed under the MIT License.
 
 ---
 
