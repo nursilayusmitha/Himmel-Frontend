@@ -1,4 +1,4 @@
-# 🌐 Frontend Web App
+# 🌐 Frontend - Himmel Web Application
 
 This is the **full frontend source code** of a modern web application built using **Vue 3**, **Tailwind CSS**, and **Vite**.
 
