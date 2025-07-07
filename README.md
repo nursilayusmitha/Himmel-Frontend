@@ -75,7 +75,7 @@ Mockup and Live Preview from both Admin Panel and Customer Frontend:
 
 ## 📜 License
 
-This frontend project is released under the MIT License for educational and portofolio purposes only. See `LICENSE.md` for details.
+This frontend project is released under the MIT License for educational and portofolio purposes only. See [`LICENSE`](./LICENSE) for details.
 
 ---
 
