@@ -1,4 +1,10 @@
-# 🌐 Frontend Web App
+# 🌐 Frontend - Himmel Web Application
+
+[![Portfolio Project](https://img.shields.io/badge/portfolio-project-blueviolet?style=flat-square)](#)
+[![License: Custom](https://img.shields.io/badge/license-Custom-important?style=flat-square)](./LICENSE)
+[![Built with Vue 3](https://img.shields.io/badge/built%20with-Vue%203-42b883?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Made by Nursila Yusmitha](https://img.shields.io/badge/made%20by-Nursila%20Yusmitha-orange?style=flat-square)](#)
+
 
 This is the **full frontend source code** of a modern web application built using **Vue 3**, **Tailwind CSS**, and **Vite**.
 
@@ -69,7 +75,7 @@ Mockup and Live Preview from both Admin Panel and Customer Frontend:
 
 ## 📜 License
 
-This frontend project is released under the MIT License for educational and portofolio purposes only. See `LICENSE.md` for details.
+This frontend project is released under the MIT License for educational and portofolio purposes only. See [`LICENSE`](./LICENSE) for details.
 
 ---
 
