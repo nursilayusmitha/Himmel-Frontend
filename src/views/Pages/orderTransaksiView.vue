@@ -106,7 +106,7 @@ const submitTransaksi = async () => {
     savedData.value.isSuccess = true
 
     await successCreate()
-    router.push(`/orderStruk/${response.data._id}`)
+    router.push(`/orderStruk/${response.data.pesananId}`)
   } catch (error) {
     console.error("❌ Error saat membuat transaksi:", error)
     await failedCreate(error)

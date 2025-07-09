@@ -142,7 +142,7 @@ const handleLogout = () => {
 }
 </script>
 <template>
-  <nav class="bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-800 sticky top-0 z-50">
+  <nav class="safe-navbar bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-800 sticky top-0 z-50">
     <div class="max-w-screen-xl mx-auto flex items-center justify-between px-4 py-3">
       <!-- Logo -->
       <router-link to="/" class="flex items-center">

@@ -279,7 +279,7 @@ watch(selectedChat, (newVal) => {
     userScrolledUp.value = false
     conversationInterval.value = setInterval(() => {
       fetchConversation(newVal.id, newVal.name, newVal.avatar)
-    }, 10000)
+    }, 1000)
   } else {
     isInConversation.value = false
     clearInterval(conversationInterval.value!)
@@ -289,7 +289,7 @@ watch(selectedChat, (newVal) => {
 // Initial fetch
 onMounted(() => {
   fetchChats()
-  setInterval(fetchChats, 10000)
+  setInterval(fetchChats, 1000)
 
   nextTick(() => {
     const container = document.querySelector('.chat-content-scroll') as HTMLElement
