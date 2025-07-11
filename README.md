@@ -16,6 +16,18 @@ It includes:
 
 ---
 
+## 🎥 Full Live Demo
+
+Experience a complete walkthrough of both the **Admin Panel** and **Customer Frontend** in action.  
+Click below to watch the demo video on YouTube:
+
+[![Watch Full App Demo on YouTube](Preview/THUMBNAIL.png)](https://youtu.be/g7E3Ak7mhG0?si=W4jYVTSUtGwN7NQf)
+
+👉 [Watch the Full Demo on YouTube](https://youtu.be/g7E3Ak7mhG0?si=W4jYVTSUtGwN7NQf)
+
+
+---
+
 ## 📸 App Preview
 
 Mockup and Live Preview from both Admin Panel and Customer Frontend:
